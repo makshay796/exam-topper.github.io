@@ -1,0 +1,53 @@
+* {
+  background: #f7f7f7;
+}
+body{
+  font-family: 'lato', sans-serif;
+}
+h1 {
+   background: #5fdde5;
+  color:#fff;
+  font-weight: 400;
+  text-align: center;
+  font-family: inherit;
+  letter-spacing: 2px;
+}
+
+h3 {
+  background: #e4e4e4;
+}
+
+article {
+  font-weight: bolder;
+}
+
+aside, footer {
+  font-weight: bolder;
+}
+/*
+.field p{
+    display: inline;
+  text-transform: capitalize;
+}
+
+.field  .field-name{
+  font-weight: bolder;
+}
+
+span {
+  text-align: center;
+}
+
+
+.about{
+  font-weight: 300;
+  word-spacing: 2px;
+}
+
+.field-align, div, p {
+  display: inline;
+}
+
+.field-align > .field-name {
+  text-align: right;
+} */
